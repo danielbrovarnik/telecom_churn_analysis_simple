@@ -49,6 +49,8 @@ The output is a heatmap with:
 - **X-axis:** Tenure (in months)
 - **Y-axis:** Contract Type
 - **Color scale:** Average churn rate (darker = higher churn)
+  ![image](https://github.com/user-attachments/assets/2c539b7f-5b06-402b-a096-48bbc4a23dd9)
+
 
 ## Requirements
 
