@@ -3,7 +3,6 @@
 
 # Create a README.md file with the content provided earlier
 
-readme_content = """
 # Customer Churn Analysis by Tenure and Contract Type
 
 This project analyzes the relationship between customer churn, contract type, and tenure using the **Telco Customer Churn** dataset.
